@@ -8,7 +8,7 @@
 
 - Main module is an edge supercomputer to support all popular AI framework
 
-- Gigabit Ethernet,  dual-band Wi-Fi and Bluetooth for IoT connectivity are provided
+- Gigabit Ethernet, dual-band Wi-Fi and Bluetooth for IoT connectivity are provided
 
 - Camera-based self- driving algorithm is implemented and vision camera for AI recognition judgment is built-in
 
@@ -28,8 +28,15 @@
 
 - Provides IoT learning contents and deep learning-based service robot learning model
 
+## Pop Library
+- Control of the device can be easily implemented by using existing libraries such as rpi.gpio
+
+- While possible, implementing complex systems by connecting multiple devices requires significant software knowledge.
+
+- The Pop library is a high-level library that allows you to focus on ideas when designing complex systems.
+
 ## Support 
 
-[pop library wiki](https://github.com/hanback-docs/SerbotMiniDocs/wiki).
+[AIoT SerBot Mini Pop library wiki](https://github.com/hanback-docs/SerbotMiniDocs/wiki)
 
-[pop library install file download link]().
+[Pop library install file download]()
