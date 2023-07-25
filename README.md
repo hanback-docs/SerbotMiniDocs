@@ -1,5 +1,5 @@
 # AIoT Serbot Mini
-!\[](serbotmini.png)
+![](https://github.com/hanback-docs/SerbotMiniDocs/edit/main/serbotmini.png)
 
 SerbotMiniDocs
 
