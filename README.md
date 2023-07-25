@@ -1,4 +1,4 @@
-# AIoT Serbot Mini
+# AIoT SerBot Mini
 ![](https://github.com/hanback-docs/SerbotMiniDocs/assets/56662413/99109480-0e51-43d6-be71-37a3c835cd44)
 
 ## Product Features 
