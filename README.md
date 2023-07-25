@@ -1,5 +1,5 @@
 # AIoT Serbot Mini
-!\[serbotmini.png]
+!\[](serbotmini.png)
 
 SerbotMiniDocs
 
