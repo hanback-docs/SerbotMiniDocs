@@ -39,4 +39,4 @@
 
 [AIoT SerBot Mini Pop library wiki](https://github.com/hanback-docs/SerbotMiniDocs/wiki)
 
-[Pop library install file download](http://hanback-nas.synology.me:5000/sharing/RmkuPCSZg)
+[Pop library install file download](http://hanback-nas.synology.me:5000/sharing/rUEjbMHV8)
